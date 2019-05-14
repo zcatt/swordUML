@@ -36,8 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Donate - Contribute to swordUML
+### Donate - Contribute to swordUML<a id="donate"/>
 Donations to swordUML support the development of the project. As you probably know, developing high quality applications takes much time and resources. Your donation will make it possible to keep up the current development standard.
-
-<a id="donate">### 捐赠 - 助力swordUML成长</a>
+### 捐赠 - 助力swordUML成长
 您的捐赠将帮助作者以更高的水准打造swordUML。开发软件需要大量的时间和精力，谢谢支持。
